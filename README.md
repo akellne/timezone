@@ -16,6 +16,7 @@ First, download the repository:
 
 ```
 git clone https://github.com/akellne/timezone.git
+cd timezone
 ```
 
 Then, create a virtual environment and install the required dependencies:
